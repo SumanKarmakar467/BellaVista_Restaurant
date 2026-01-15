@@ -6,7 +6,7 @@
 /* root element of the html document and golbal access */
 /* you can use this root data for coluring  */
 :root{
-    --primary-color:#e74c3c;
+    /* --primary-color:#e74c3c; */
     --secondary-color:#2c3e50;
     --accent-color:#3498db;
     --light-background:#f8f9fa;
