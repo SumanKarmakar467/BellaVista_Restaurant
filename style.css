@@ -3,7 +3,7 @@
     padding:0;
     box-sizing:border-box;
 }
-/* root element of the html document and golbal access */
+
 
 :root{
     --primary-color:#e74c3c;
